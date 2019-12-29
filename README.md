@@ -3,6 +3,12 @@ Open Rails is ...
 
 Information for Open Rails is distributed around the Internet and this Wiki provides an updated index of these sources.
 
+## Primary Sources
+- [Open Rails website](http://www.openrails.org), created and maintained by Open Rails to publish new, software, content and links to other sources.
+- [Elvas Tower USA bulletin board](http://www.elvastower.com) which hosts forums about content for train simulators and also the development team for Open Rails.
+- [TrainSim USA bulletin board](http://www.trainsim.com) which hosts forums about content for train simulators
+- [openrails.github.com repository](https://openrails.github.com) of Open Rails simulator code 
+
 You can use the [editor on GitHub](https://github.com/cjakeman3/cjakeman3.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
