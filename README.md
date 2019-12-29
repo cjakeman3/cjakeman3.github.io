@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+# Open Rails - Information Sources
+Open Rails is ...
+
+Information for Open Rails is distributed around the Internet and this Wiki provides an updated index of these sources.
 
 You can use the [editor on GitHub](https://github.com/cjakeman3/cjakeman3.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
