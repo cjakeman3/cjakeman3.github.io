@@ -4,6 +4,7 @@ Open Rails is ...
 Information for Open Rails is distributed around the Internet and this Wiki provides an updated index of these sources.
 
 ## Primary Sources
+- [Operation Manual](http://openrails.org/files/OpenRails-Testing-Manual.pdf), as PDF and included in the software and updated with each release.
 - [Open Rails website](http://www.openrails.org), created and maintained by Open Rails to publish new, software, content and links to other sources.
 - [Elvas Tower USA bulletin board](http://www.elvastower.com) which hosts forums about content for train simulators and also the development team for Open Rails.
 - [TrainSim USA bulletin board](http://www.trainsim.com) which hosts forums about content for train simulators
